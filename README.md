@@ -1,0 +1,1 @@
+# Analise-de-Concorrente.2026
